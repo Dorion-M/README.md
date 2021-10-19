@@ -8,7 +8,11 @@ I am majoring in IT because nothing is as exciting to me as the progress and inn
 
 ## My Favorite things
 
+<<<<<<< Updated upstream
 * Music 
+=======
+* [Music](https://github.com/Dorion-M/README.md/blob/main/Music.md)
+>>>>>>> Stashed changes
 * Video Games
 * Coding
 * Movies
