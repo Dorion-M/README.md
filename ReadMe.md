@@ -1,6 +1,6 @@
 # About Me
 
-## My name is Dorion Massengill
+## My name is **Dorion Massengill**
 
 I am a first year student at Mizzou and proud to be a tiger!
 
@@ -8,11 +8,9 @@ I am majoring in IT because nothing is as exciting to me as the progress and inn
 
 ## My Favorite things
 
-<<<<<<< Updated upstream
-* Music 
-=======
 * [Music](https://github.com/Dorion-M/README.md/blob/main/Music.md)
->>>>>>> Stashed changes
 * Video Games
 * Coding
 * Movies
+
+You click on the links above to learn more about each of my interests
