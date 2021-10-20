@@ -14,5 +14,6 @@
 
 Here is a link to my Spotify page with some of the best playlists around
 
-![Spotify](https://user-images.githubusercontent.com/89409962/138007044-d058552e-e5ba-4ff3-bafd-75bd13d3ba63.png))
+<img src="https://user-images.githubusercontent.com/89409962/138007044-d058552e-e5ba-4ff3-bafd-75bd13d3ba63.png" alt="Spotify" width="200"/>
+
 [Spotify](https://open.spotify.com/user/12158294316?si=131f6a3d884c49ac)
