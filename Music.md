@@ -5,7 +5,7 @@
 3. Lil Peep
 4. Bay Faction
 
-# My favorite songs (In no perticular order)
+# My favorite songs (In no particular order)
 
 * Brain Damage - Pink Floyd
 * Sopping - Bay faction
