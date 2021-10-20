@@ -11,6 +11,8 @@ Other than the classes I am taking here at mizzou I have some self taught experi
 
 **My personal favorite program I have written is quite simple, but still fun!**
 
+*My very own rock paper scissors game!
+
 ```python
 
 from random import randint
